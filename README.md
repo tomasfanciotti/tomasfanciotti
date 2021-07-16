@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning about Operating Systems, Data Bases and Data Science.
 - 📫 Email: tomasfanciotti@gmail.com
-- 💻 LinkedIn: linkedin.com/in/tomasfanciotti/
+- 💻 LinkedIn: https://www.linkedin.com/in/tomasfanciotti/
 
 <!---
 tomasfanciotti/tomasfanciotti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
